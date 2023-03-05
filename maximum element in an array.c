@@ -17,5 +17,13 @@ int main()
         cin>>num[i];
     }
     cout<<"Maximum value is "<< getMax(num,size) << endl;
-    return 0;
+    
 }
+
+
+
+Input: 5 
+    10 80 20 40 60
+Output:
+    Maximum value is 80
+  
